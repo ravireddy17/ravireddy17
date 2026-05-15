@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Developing scalable full stack applications using Java, Spring Boot, and React, focusing on microservices, secure REST APIs, and cloud-native deployments with Docker and CI/CD pipelines.<br><br>👯 I’m looking to collaborate on<br><br>Microservices-based systems, cloud-native applications, and full stack projects using Spring Boot, React/Angular, and distributed architectures.<br><br>🤝 I’m looking for help with<br><br>Advanced system design, distributed systems, and improving performance and scalability of high-throughput applications.<br><br>🌱 I’m currently learning<br><br>Advanced microservices architecture, Kubernetes, serverless computing, and integrating AI capabilities into enterprise applications.<br><br>💬 Ask me about<br><br>Java, Spring Boot, REST APIs, React, Angular, microservices, cloud deployments, CI/CD, Docker, Kubernetes, and system performance optimization.<br><br>⚡ Fun fact<br><br>I enjoy optimizing system performance and building scalable applications that handle real-world high-volume workloads efficiently.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-reddyrr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravireddyrr01@gmail.com) 
 
